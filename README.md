@@ -1,1 +1,1 @@
-# ML-
+This is a machine learning project based on mental health at workplace. how much people are receiving their treatment.there are three machine learning model are implemented.Analyze and evaluate the best fitted model according to classification report.
